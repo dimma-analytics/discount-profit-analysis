@@ -35,6 +35,7 @@ This suggests that careful discount strategies are essential for maximizing prof
 ---
 
 ## 📎 Quick Links
-- [View Insights](./insights.md)
-- [Project Screenshots](./screenshots/)
-- [Analysis Visualizations](./analysis/)
+- [View Insights](https://github.com/dimma-analytics/discount-profit-analysis/blob/main/insights.md)
+- [Project Screenshots](https://github.com/dimma-analytics/discount-profit-analysis/tree/main/screenshots)
+- [Analysis Visualizations](https://github.com/dimma-analytics/discount-profit-analysis/tree/main/analysis)
+- [Project Data](https://github.com/dimma-analytics/discount-profit-analysis/tree/main/data)
